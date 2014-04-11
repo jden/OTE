@@ -7,7 +7,7 @@ var geojson = {};
 function addGeometry(feature) {
   feature.geometry = {};
   feature.geometry.type = "Point";
-  feature.geometry.coordinates = [feature.point.lat, feature.point.lng];
+  feature.geometry.coordinates = [feature.point.lng, feature.point.lat];
 };
 
 // Remove any properties you don't want.
