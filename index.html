@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KML to GeoJSON</title>
+</head>
+
+<body>
+  <h1>KML to GeoJSON</h1>
+  <h2>Hack your way to webmap victory.</h2>
+  <p>If you've ever seen an embedded Google Map and thought, "That data is so cool, I wish I could have that and make my own map with it," then today is your lucky day!</p>
+
+  <div id='errorField'></div>
+  <div id='dropJSON'>
+    <form id='pasteJSON'>
+      <fieldset>
+        <legend>Copy and paste your sneaky JSON here:</legend>
+        <input type='text' id='pastedJSON' name='formInput'>
+        <input type='submit' id='button' value='Convert!' />
+      </fieldset>
+    </form>
+  </div>
+
+  <div id='convertedGeoJSON'></div>
+  
+  <script src='/KMLtoGeoJSON.js'></script>
+</body>
+</html>
