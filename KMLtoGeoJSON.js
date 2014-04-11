@@ -4,9 +4,12 @@ var json = [];
 var geojson = {};
 
 // This script only does point features.
+function addPoint(feature) {
+  feature.type = "Point";
+}
+
 function addGeometry(feature) {
   feature.geometry = {};
-  feature.geometry.type = "Point";
   feature.geometry.coordinates = [feature.point.lng, feature.point.lat];
 };
 
