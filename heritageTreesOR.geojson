@@ -2,823 +2,1075 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.61108,
-          -123.053033
+          -123.053033,
+          45.61108
         ]
       },
       "properties": {
         "title": "10th Mountain Division Memorial Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/10th-mountain-division-memorial-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/10th-mountain-division-memorial-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.738794,
-          -118.643664
+          -118.643664,
+          42.738794
         ]
       },
       "properties": {
         "title": "Aspen Arborglyph Trees",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/aspen-arborglyph-trees/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/aspen-arborglyph-trees/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.320768,
-          -118.089241
+          -118.089241,
+          45.320768
         ]
       },
       "properties": {
         "title": "Baker Black Locust",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/baker-black-locust/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/baker-black-locust/",
+        "body": "LaGrande, Oregon",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.137224,
-          -123.297511
+          -123.297511,
+          45.137224
         ]
       },
       "properties": {
         "title": "Baker/Russell Black Walnut",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/bakerrussell-black-walnut/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/bakerrussell-black-walnut/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.319738,
-          -121.903465
+          -121.903465,
+          45.319738
         ]
       },
       "properties": {
         "title": "Barlow Road Tollgate Maples",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/barlow-road-tollgate-maples/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/barlow-road-tollgate-maples/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.362369,
-          -122.909916
+          -122.909916,
+          42.362369
         ]
       },
       "properties": {
         "title": "Beall Black Walnut",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/beall-black-walnut/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/beall-black-walnut/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.062924,
-          -122.800804
+          -122.800804,
+          45.062924
         ]
       },
       "properties": {
         "title": "Benedictine Sisters Sequoia",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/benedictine-sisters-sequoia/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/benedictine-sisters-sequoia/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.772008,
-          -121.51888
+          -121.51888,
+          43.772008
         ]
       },
       "properties": {
         "title": "Big Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/big-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/big-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.102332,
-          -124.153975
+          -124.153975,
+          42.102332
         ]
       },
       "properties": {
         "title": "Bombing Site Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/bombing-site-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/bombing-site-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.311783394136,
-          -122.9742780741
+          -122.9742780741,
+          42.311783394136
         ]
       },
       "properties": {
         "title": "Britt Sequoia",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/britt-sequoia/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/britt-sequoia/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.139806,
-          -123.456636
+          -123.456636,
+          42.139806
         ]
       },
       "properties": {
         "title": "Camp Oregon Caves Port Orford Cedar",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/camp-oregon-caves-port-orford-cedar/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/camp-oregon-caves-port-orford-cedar/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          46.188287,
-          -123.835351
+          -123.835351,
+          46.188287
         ]
       },
       "properties": {
         "title": "Captain Flavel Trees",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/captain-flavel-trees/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/captain-flavel-trees/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.210431,
-          -123.341049
+          -123.341049,
+          43.210431
         ]
       },
       "properties": {
         "title": "Courthouse Elm",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/courthouse-elm/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/courthouse-elm/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.522969,
-          -122.988918
+          -122.988918,
+          45.522969
         ]
       },
       "properties": {
         "title": "Courthouse Square Sequoias",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/courthouse-square-sequoias/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/courthouse-square-sequoias/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.519417,
-          -122.716727
+          -122.716727,
+          45.519417
         ]
       },
       "properties": {
         "title": "Dawn Redwood",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/dawn-redwood/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/dawn-redwood/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.031191,
-          -123.019693
+          -123.019693,
+          44.031191
         ]
       },
       "properties": {
         "title": "Dorris Ranch Hazelnut Orchard",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/dorris-ranch-hazelnut-orchard/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/dorris-ranch-hazelnut-orchard/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.48775,
-          -122.70741
+          -122.70741,
+          45.48775
         ]
       },
       "properties": {
         "title": "Dosch Yellow Bellflower Apple",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/dosch-yellow-bellflower-apple/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/dosch-yellow-bellflower-apple/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.890096,
-          -122.808429
+          -122.808429,
+          45.890096
         ]
       },
       "properties": {
         "title": "Dr. Charles Caples House Orchard",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/dr-charles-caples-house-orchard/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/dr-charles-caples-house-orchard/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.323359,
-          -123.044525
+          -123.044525,
+          45.323359
         ]
       },
       "properties": {
         "title": "Ewing Young Oak",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/ewing-young-oak/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/ewing-young-oak/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35859,
-          -122.35555
+          -122.35555,
+          45.35859
         ]
       },
       "properties": {
         "title": "Foster Lilac",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/foster-lilac/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/foster-lilac/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.212665,
-          -122.158333
+          -122.158333,
+          45.212665
         ]
       },
       "properties": {
         "title": "Frank Lockyear Memorial Cedar Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/frank-lockyear-memorial-cedar-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/frank-lockyear-memorial-cedar-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.280719,
-          -124.091182
+          -124.091182,
+          44.280719
         ]
       },
       "properties": {
         "title": "Giant Spruce at Cape Perpetua",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/giant-spruce-of-cape-perpetua/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/giant-spruce-of-cape-perpetua/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.477995,
-          -122.992568
+          -122.992568,
+          45.477995
         ]
       },
       "properties": {
         "title": "Gov. Withycombe Giant Sequoia",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/gov-withycombe-giant-sequoia/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/gov-withycombe-giant-sequoia/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.937881,
-          -123.028735
+          -123.028735,
+          44.937881
         ]
       },
       "properties": {
         "title": "Gov. McCall Maple",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/governor-mccall-maple/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/governor-mccall-maple/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.915104,
-          -122.986075
+          -122.986075,
+          44.915104
         ]
       },
       "properties": {
         "title": "Hager Grove Pear Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/hager-grove-pear-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/hager-grove-pear-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.33553,
-          -122.93317
+          -122.93317,
+          42.33553
         ]
       },
       "properties": {
         "title": "Hanley Farm Willow",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/hanley-farm-willow/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/hanley-farm-willow/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.302581,
-          -122.851017
+          -122.851017,
+          42.302581
         ]
       },
       "properties": {
         "title": "Harry and David Comice Pear Trees",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/harry-david-comice-pear-trees/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/harry-david-comice-pear-trees/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.491316,
-          -123.485641
+          -123.485641,
+          43.491316
         ]
       },
       "properties": {
         "title": "Hinds Walnut",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/hinds-walnut/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/hinds-walnut/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.299764,
-          -122.968841
+          -122.968841,
+          45.299764
         ]
       },
       "properties": {
         "title": "Hoover Minthorn Pear",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/hoover-minthorn-pear/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/hoover-minthorn-pear/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.69381,
-          -116.860902
+          -116.860902,
+          45.69381
         ]
       },
       "properties": {
         "title": "Indian Village Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/indian-village-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/indian-village-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.461372,
-          -122.889837
+          -122.889837,
+          45.461372
         ]
       },
       "properties": {
         "title": "Jenkins Estate Elm Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/jenkins-estate-elm-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/jenkins-estate-elm-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.585977,
-          -122.81687
+          -122.81687,
+          42.585977
         ]
       },
       "properties": {
         "title": "Lonesome Hickory",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/lonesome-hickory/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/lonesome-hickory/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.431667,
-          -120.86
+          -120.86,
+          42.431667
         ]
       },
       "properties": {
         "title": "Mitchell Monument",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/mitchell-monument-shrapnel-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/mitchell-monument-shrapnel-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.028444,
-          -124.232411
+          -124.232411,
+          42.028444
         ]
       },
       "properties": {
         "title": "Monterey Cypress",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/monterey-cypress/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/monterey-cypress/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.93917,
-          -123.0316
+          -123.0316,
+          44.93917
         ]
       },
       "properties": {
         "title": "Moon Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/moon-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/moon-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.383415,
-          -122.752701
+          -122.752701,
+          45.383415
         ]
       },
       "properties": {
         "title": "Nyberg Chestnut",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/nyberg-chestnut/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/nyberg-chestnut/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.484827,
-          -123.97405
+          -123.97405,
+          45.484827
         ]
       },
       "properties": {
         "title": "Octopus Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/octopus-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/octopus-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.528374,
-          -122.910622
+          -122.910622,
+          45.528374
         ]
       },
       "properties": {
         "title": "Orenco Elms",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/orenco-elm-trees/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/orenco-elm-trees/",
+        "body": "228th & Birch St.",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.063402,
-          -123.102788
+          -123.102788,
+          44.063402
         ]
       },
       "properties": {
         "title": "Owen Cherry Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/owen-cherry/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/owen-cherry/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.414753,
-          -122.661391
+          -122.661391,
+          45.414753
         ]
       },
       "properties": {
         "title": "Peg Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/peg-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/peg-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.376705,
-          -122.595476
+          -122.595476,
+          45.376705
         ]
       },
       "properties": {
         "title": "Pow-Wow Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/pow-wow-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/pow-wow-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.256896,
-          -122.90298
+          -122.90298,
+          45.256896
         ]
       },
       "properties": {
         "title": "Provisional Government Park Cottonwood",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/provisional-government-park-cottonwood/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/provisional-government-park-cottonwood/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.941809,
-          -122.806849
+          -122.806849,
+          44.941809
         ]
       },
       "properties": {
         "title": "Riding Whip Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/riding-whip-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/riding-whip-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.923207,
-          -118.378426
+          -118.378426,
+          45.923207
         ]
       },
       "properties": {
         "title": "Shagbark Hickory",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/shagbark-hickory/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/shagbark-hickory/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.391828,
-          -122.693512
+          -122.693512,
+          45.391828
         ]
       },
       "properties": {
         "title": "Shipley-Cook Grove Plaque",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/shipley-cook-heritage-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/shipley-cook-heritage-grove/",
+        "body": "Shipley-Cook Grove public viewing site and location of Heritage Tree Plaque ",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.321863,
-          -124.384859
+          -124.384859,
+          43.321863
         ]
       },
       "properties": {
         "title": "Shore Acres Monterey Pine",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/1951/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/1951/",
+        "body": "In Shore Acres State Park",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.321876,
-          -124.384842
+          -124.384842,
+          43.321876
         ]
       },
       "properties": {
         "title": "Shore Acres Monterey Pine",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/shore-acres-state-park-monterey-pine/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/shore-acres-state-park-monterey-pine/",
+        "body": "In the gardens Shore Acres State Park",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.992487,
-          -122.792119
+          -122.792119,
+          44.992487
         ]
       },
       "properties": {
         "title": "Signature Oak",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/signature-oak/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/signature-oak/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.39677,
-          -122.938042
+          -122.938042,
+          42.39677
         ]
       },
       "properties": {
         "title": "Silver Maple at Seven Oaks Farm",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/silver-maple-at-seven-oaks-farm/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/silver-maple-at-seven-oaks-farm/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.920707,
-          -123.892007
+          -123.892007,
+          45.920707
         ]
       },
       "properties": {
         "title": "Sitka Spruce at Klootchy Creek",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/sitka-spruce-at-klootchy-creek/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/sitka-spruce-at-klootchy-creek/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.103222,
-          -123.681524
+          -123.681524,
+          42.103222
         ]
       },
       "properties": {
         "title": "Smokejumper Jeffrey Pine",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/smokejumper-jeffrey-pine/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/smokejumper-jeffrey-pine/",
+        "body": "Located in front of the Smokejumper Museum at the Illinois Valley Airport",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.93777,
-          -123.03117
+          -123.03117,
+          44.93777
         ]
       },
       "properties": {
         "title": "Star Trees of Willamette University",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/star-trees-of-willamette-university/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/star-trees-of-willamette-university/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.960198,
-          -123.012543
+          -123.012543,
+          44.960198
         ]
       },
       "properties": {
         "title": "State Fairgrounds Oak Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/state-fairgrounds-oak-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/state-fairgrounds-oak-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.586233,
-          -123.559724
+          -123.559724,
+          45.586233
         ]
       },
       "properties": {
         "title": "Student Planters’ Grove",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/student-planters-grove/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/student-planters-grove/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.56553,
-          -123.273844
+          -123.273844,
+          44.56553
         ]
       },
       "properties": {
         "title": "Trysting Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/trysting-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/trysting-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.1155426,
-          -122.4423612
+          -122.4423612,
+          42.1155426
         ]
       },
       "properties": {
         "title": "Tub Springs Sugar Pines",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/tub-springs-sugar-pines/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/tub-springs-sugar-pines/",
+        "body": "Ashland, OR 97520",
+        "address": "Tub Springs State Park, Ashland, OR 97520, USA",
+        "correctedAddress": "Tub Springs State Park, Ashland, OR 97520, USA",
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.936367,
-          -123.715467
+          -123.715467,
+          44.936367
         ]
       },
       "properties": {
         "title": "Valley of the Giants",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/valley-of-the-giants/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/valley-of-the-giants/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.333996,
-          -118.086365
+          -118.086365,
+          45.333996
         ]
       },
       "properties": {
         "title": "Victory Way Norway Maple",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/victory-way-norway-maple/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/victory-way-norway-maple/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.943596,
-          -123.027813
+          -123.027813,
+          44.943596
         ]
       },
       "properties": {
         "title": "Waldo Park Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/waldo-park-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/waldo-park-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.5162,
-          -122.2371
+          -122.2371,
+          42.5162
         ]
       },
       "properties": {
         "title": "Waldo Tree at Island Lake",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/waldo-tree-at-island-lake/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/waldo-tree-at-island-lake/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.567962,
-          -120.094267
+          -120.094267,
+          44.567962
         ]
       },
       "properties": {
         "title": "Wheeler Elm",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/wheeler-elm/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/wheeler-elm/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.077097,
-          -123.051451
+          -123.051451,
+          45.077097
         ]
       },
       "properties": {
         "title": "Willamette Mission Cottonwood",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/willamette-mission-cottonwood/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/willamette-mission-cottonwood/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.038005,
-          -123.121998
+          -123.121998,
+          45.038005
         ]
       },
       "properties": {
         "title": "Witness Tree",
-        "url": "http://ortravelexperience.com/oregon-heritage-trees/witness-tree/"
+        "url": "http://ortravelexperience.com/oregon-heritage-trees/witness-tree/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "tree"
       }
     }
   ]
-}
+} 

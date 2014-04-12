@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KML to GeoJSON</title>
+  <script src='./jquery-2.0.3.min.js'></script>
+</head>
+
+<body>
+  <h1>KML to GeoJSON</h1>
+  <h2>Hack your way to webmap victory.</h2>
+  <p>If you've ever seen an embedded Google Map and thought, "That data is so cool, I wish I could have that and make my own map with it," then today is your lucky day!</p>
+
+  <div id='errorField'></div>
+  <div id='dropJSON'>
+    <form id='pasteJSON'>
+      <fieldset>
+        <legend>Copy and paste your sneaky JSON here:</legend>
+        <input type='text/javascript' id='pastedJSON' name='formInput'>
+        <input type='submit' id='button' value='Convert!' />
+      </fieldset>
+    </form>
+  </div>
+
+  <div id='convertedGeoJSON'></div>
+  
+  <script>
+  $(function() {
+    $('#convertedGeoJSON').html('');
+    console.log("xx");
+    console.log("go");
+    var json, geojson, formattedGeoJSON;
+
+    var feature = [{
+      "point":{
+        "lat":45.61108,
+        "lng":-123.053033
+      },
+      "title":"10th Mountain Division Memorial Grove",
+      "url":"http:\/\/ortravelexperience.com\/oregon-heritage-trees\/10th-mountain-division-memorial-grove\/",
+      "body":"",
+      "address":null,
+      "correctedAddress":null,
+      "iconid":"tree",
+      "viewport":null,
+      "user":false,
+      "showPoiList":true,
+      "poiListTemplate":"<td class='mapp-marker'>[icon]<\/td><td><b>[title]<\/b>[directions]<\/td>"
+    }];
+    console.log('log');
+
+    // This script only does point features.
+    function addGeometry(feature) {
+      feature.geometry = {};
+      feature.geometry.type = "Point";
+      feature.geometry.coordinates = [feature.point.lat, feature.point.lng];
+      console.log(feature.geometry.coordinates);
+    };
+
+    // Remove any properties you don't want.
+    function addProps(feature) {
+      feature.properties = {};
+      feature.properties.title = feature.title;
+      feature.properties.url = feature.url;
+      feature.properties.body = feature.body;
+      feature.properties.address = feature.address;
+      feature.properties.correctedAddress = feature.correctedAddress;
+      feature.properties.iconid = feature.iconid;
+      console.log(feature.properties);
+    };
+
+    function deleteKeys(feature) {
+      delete feature.url;
+      delete feature.body;
+      delete feature.address;
+      delete feature.correctedAddress;
+      delete feature.iconid;
+      delete feature.viewport;
+      delete feature.user;
+      delete feature.showPoiList;
+      delete feature.poiListTemplate;
+      delete feature.point;
+      delete feature.title;
+      console.log(feature);
+    };
+
+    function makeGeoJSON(json) {
+      geojson = {
+        "type": "FeatureCollection",
+        "features": json
+      };
+      console.log(geojson);
+    };
+
+    function displayGeoJSON(geojson) {
+      formattedGeoJSON = JSON.stringify(geojson, null, '\t');
+      $('#convertedGeoJSON').html('<code><pre>' + formattedGeoJSON + '</pre></code>');
+    };
+
+    function fullConvert(json) {
+      debugger;
+      console.log(json);
+      console.log(typeof(json));
+      debugger;
+      for (var i in json) {
+        addGeometry(json[i]);
+        addProps(json[i]);
+        deleteKeys(json[i]);
+        makeGeoJSON(json);
+        displayGeoJSON(geojson);
+        e.preventDefault();
+      };
+    };
+    $('#pasteJSON').submit(function(e) {
+      debugger;
+      console.log('yay');
+      debugger;
+      var submitted = $('#pastedJSON').val();
+      /*var submitted = feature;*/
+      console.log(typeof(submitted));
+      debugger;
+      console.log(submitted);
+      debugger;
+      var omg = valueOf(submitted);
+      e.preventDefault();
+      debugger;
+      console.log(omg)
+      debugger;
+      fullConvert(submitted);
+      e.preventDefault();
+    });
+  });
+  </script>
+
+</body>
+</html>

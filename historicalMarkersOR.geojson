@@ -2,1889 +2,2469 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.80229,
-          -123.47255
+          -123.47255,
+          45.80229
         ]
       },
       "properties": {
         "title": "41st Division",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/41st-infantry-division/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/41st-infantry-division/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35178,
-          -122.6266
+          -122.6266,
+          45.35178
         ]
       },
       "properties": {
         "title": "George Abernethy",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/abernethy-george/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/abernethy-george/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.48743,
-          -120.2781
+          -120.2781,
+          42.48743
         ]
       },
       "properties": {
         "title": "Abert Rim",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/abert-rim-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/abert-rim-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.247103,
-          -123.112338
+          -123.112338,
+          45.247103
         ]
       },
       "properties": {
         "title": "Abigail Scott Duniway",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/abigail-scott-duniway/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/abigail-scott-duniway/",
+        "body": "SE Jefferson and 8th St., Lafayette, OR",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.40665,
-          -122.29027
+          -122.29027,
+          44.40665
         ]
       },
       "properties": {
         "title": "America’s First Transcontinental Auto Race",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/americas-first-transcontinental-auto-race/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/americas-first-transcontinental-auto-race/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.29832,
-          -118.97442
+          -118.97442,
+          43.29832
         ]
       },
       "properties": {
         "title": "American Indian Seasonal Round",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/american-indian-seasonal-round/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/american-indian-seasonal-round/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.65006,
-          -120.96059
+          -120.96059,
+          45.65006
         ]
       },
       "properties": {
         "title": "Ancient Indian Fishing Grounds",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/ancient-indian-fishing-grounds/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/ancient-indian-fishing-grounds/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.13608,
-          -122.02861
+          -122.02861,
+          42.13608
         ]
       },
       "properties": {
         "title": "Applegate Trail",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/applegate-trail/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/applegate-trail/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.74929,
-          -123.17605
+          -123.17605,
+          43.74929
         ]
       },
       "properties": {
         "title": "Jesse Applegate",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/applegate-jesse/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/applegate-jesse/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.719574,
-          -120.202532
+          -120.202532,
+          45.719574
         ]
       },
       "properties": {
         "title": "Arlington",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/arlington/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/arlington/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.2312,
-          -122.75571
+          -122.75571,
+          45.2312
         ]
       },
       "properties": {
         "title": "Aurora",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/aurora/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/aurora/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.78263,
-          -117.81247
+          -117.81247,
+          44.78263
         ]
       },
       "properties": {
         "title": "Baker",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/baker/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/baker/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.388595,
-          -122.496861
+          -122.496861,
+          45.388595
         ]
       },
       "properties": {
         "title": "Baker Cabin",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/baker-cabin/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/baker-cabin/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.913748,
-          -117.819078
+          -117.819078,
+          44.913748
         ]
       },
       "properties": {
         "title": "Baker Valley",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/baker-valley-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/baker-valley-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.406893,
-          -121.048756
+          -121.048756,
+          42.406893
         ]
       },
       "properties": {
         "title": "Balloon Bomb",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/balloon-bomb/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/balloon-bomb/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.54152,
-          -119.53978
+          -119.53978,
+          43.54152
         ]
       },
       "properties": {
         "title": "Bannock War",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/bannock-war/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/bannock-war/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.26782,
-          -118.97772
+          -118.97772,
+          45.26782
         ]
       },
       "properties": {
         "title": "Battle Mountain",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/battle-mountain/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/battle-mountain/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.63412,
-          -121.95903
+          -121.95903,
+          45.63412
         ]
       },
       "properties": {
         "title": "Beacon Rock",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/beacon-rock/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/beacon-rock/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.398019,
-          -118.316322
+          -118.316322,
+          45.398019
         ]
       },
       "properties": {
         "title": "Blue Mountian Interpretive Park",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/blue-mountain-interpretive-park/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/blue-mountain-interpretive-park/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.27119,
-          -122.77514
+          -122.77514,
+          45.27119
         ]
       },
       "properties": {
         "title": "Boone's Ferry",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/boones-ferry/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/boones-ferry/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.29496,
-          -122.77492
+          -122.77492,
+          45.29496
         ]
       },
       "properties": {
         "title": "Boone’s Landing",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/boones-landing/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/boones-landing/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.96988,
-          -122.93964
+          -122.93964,
+          43.96988
         ]
       },
       "properties": {
         "title": "Bristow Monument",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/bristow-monument/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/bristow-monument/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.54279,
-          -122.27551
+          -122.27551,
+          45.54279
         ]
       },
       "properties": {
         "title": "Broughton’s Expedition",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/broughtons-expedition/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/broughtons-expedition/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.38768,
-          -122.98885
+          -122.98885,
+          44.38768
         ]
       },
       "properties": {
         "title": "Brownsville",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/brownsville/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/brownsville/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.69953,
-          -123.20842
+          -123.20842,
+          44.69953
         ]
       },
       "properties": {
         "title": "Camp Adair",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/camp-adair-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/camp-adair-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.69969695094,
-          -123.22038796295
+          -123.22038796295,
+          44.69969695094
         ]
       },
       "properties": {
         "title": "Camp Adair",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/camp-adair/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/camp-adair/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.82031,
-          -123.96065
+          -123.96065,
+          45.82031
         ]
       },
       "properties": {
         "title": "Cannon Beach",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/cannon-beach/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/cannon-beach/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.8911,
-          -123.23856
+          -123.23856,
+          42.8911
         ]
       },
       "properties": {
         "title": "Canyon Creek",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/canyon-creek/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/canyon-creek/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.668712,
-          -121.895424
+          -121.895424,
+          45.668712
         ]
       },
       "properties": {
         "title": "Cascade Locks",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/cascade-locks/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/cascade-locks/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.912166694937,
-          -117.93894784538
+          -117.93894784538,
+          44.912166694937
         ]
       },
       "properties": {
         "title": "Cattle Drives",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/cattle-drives/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/cattle-drives/",
+        "body": "Located in Haines City Park",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.310398747731,
-          -124.10774220105
+          -124.10774220105,
+          44.310398747731
         ]
       },
       "properties": {
         "title": "Central Oregon Coast Region",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/central-coast-region/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/central-coast-region/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.254322324345,
-          -122.90200976196
+          -122.90200976196,
+          45.254322324345
         ]
       },
       "properties": {
         "title": "Champoeg State Park",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/champoeg-state-park/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/champoeg-state-park/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.235643,
-          -118.01224
+          -118.01224,
+          45.235643
         ]
       },
       "properties": {
         "title": "Charles Reynolds RA",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/charles-reynolds-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/charles-reynolds-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.653746,
-          -121.210485
+          -121.210485,
+          45.653746
         ]
       },
       "properties": {
         "title": "Columbia Gorge Discovery Center",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/columbia-gorge-discovery-center/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/columbia-gorge-discovery-center/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.27885,
-          -124.40446
+          -124.40446,
+          42.27885
         ]
       },
       "properties": {
         "title": "Conflict at Pistol River",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/conflict-at-pistol-river/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/conflict-at-pistol-river/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.475990302678,
-          -123.32008114547
+          -123.32008114547,
+          43.475990302678
         ]
       },
       "properties": {
         "title": "Cow Creeks - A Tale of Strong Recovery",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/cow-creeks-a-tale-of-strong-recovery/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/cow-creeks-a-tale-of-strong-recovery/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.9819,
-          -117.2462
+          -117.2462,
+          43.9819
         ]
       },
       "properties": {
         "title": "Cutoff Fever",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/cutoff-fever/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/cutoff-fever/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35525,
-          -120.78583
+          -120.78583,
+          45.35525
         ]
       },
       "properties": {
         "title": "Cutoff to the Barlow Road",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/cutoff-to-the-barlow-road/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/cutoff-to-the-barlow-road/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.221316420051,
-          -123.07635113812
+          -123.07635113812,
+          45.221316420051
         ]
       },
       "properties": {
         "title": "Dayton Blockhouse",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/dayton-blockhouse/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/dayton-blockhouse/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.182746255334,
-          -122.65560203994
+          -122.65560203994,
+          42.182746255334
         ]
       },
       "properties": {
         "title": "Dead Indian Memorial Road",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/dead-indian-memorial-road/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/dead-indian-memorial-road/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.601608,
-          -118.508213
+          -118.508213,
+          45.601608
         ]
       },
       "properties": {
         "title": "Deadman Pass",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/deadman-pass-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/deadman-pass-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.90597,
-          -122.81966
+          -122.81966,
+          45.90597
         ]
       },
       "properties": {
         "title": "Deer Island",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/deer-island/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/deer-island/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.634115995516,
-          -120.91186027946
+          -120.91186027946,
+          45.634115995516
         ]
       },
       "properties": {
         "title": "Deschutes River Crossing",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/deschutes-river-crossing/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/deschutes-river-crossing/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.632849,
-          -120.908886
+          -120.908886,
+          45.632849
         ]
       },
       "properties": {
         "title": "Deschutes River State Recreation Area",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/deschutes-river-state-recreation-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/deschutes-river-state-recreation-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.064793,
-          -117.88343
+          -117.88343,
+          45.064793
         ]
       },
       "properties": {
         "title": "Marie Dorian",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/dorian-marie/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/dorian-marie/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.453531,
-          -121.130834
+          -121.130834,
+          45.453531
         ]
       },
       "properties": {
         "title": "Dufur",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/dufur/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/dufur/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.581584590222,
-          -117.46448674942
+          -117.46448674942,
+          44.581584590222
         ]
       },
       "properties": {
         "title": "Durkee",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/durkee/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/durkee/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.742371,
-          -119.195791
+          -119.195791,
+          45.742371
         ]
       },
       "properties": {
         "title": "Echo",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/echo/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/echo/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.740259,
-          -119.220436
+          -119.220436,
+          45.740259
         ]
       },
       "properties": {
         "title": "Echo Meadows",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/echo-meadows/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/echo-meadows/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.917331333569,
-          -123.93849562698
+          -123.93849562698,
+          45.917331333569
         ]
       },
       "properties": {
         "title": "Ecola",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/ecola/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/ecola/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.437133824633,
-          -118.18101163483
+          -118.18101163483,
+          44.437133824633
         ]
       },
       "properties": {
         "title": "Eldorado Ditch",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/eldorado-ditch/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/eldorado-ditch/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.540917,
-          -118.464729
+          -118.464729,
+          45.540917
         ]
       },
       "properties": {
         "title": "Emigrant Springs",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/emigrant-springs-state-park-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/emigrant-springs-state-park-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.392835623737,
-          -124.27989007732
+          -124.27989007732,
+          43.392835623737
         ]
       },
       "properties": {
         "title": "Empire City",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/empire-city/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/empire-city/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.364682,
-          -122.594789
+          -122.594789,
+          45.364682
         ]
       },
       "properties": {
         "title": "End of the Oregon Trail",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/end-of-the-oregon-trail-historic-site/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/end-of-the-oregon-trail-historic-site/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.303559,
-          -117.227563
+          -117.227563,
+          44.303559
         ]
       },
       "properties": {
         "title": "Farewell Bend",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/farewell-bend/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/farewell-bend/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.305685,
-          -117.225688
+          -117.225688,
+          44.305685
         ]
       },
       "properties": {
         "title": "Farewell Bend",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/farewell-bend-state-park-birch-creek/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/farewell-bend-state-park-birch-creek/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.515032415528,
-          -124.07473068787
+          -124.07473068787,
+          44.515032415528
         ]
       },
       "properties": {
         "title": "First Coastal Expeditions",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/first-coastal-expeditions/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/first-coastal-expeditions/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          46.14287,
-          -123.87439
+          -123.87439,
+          46.14287
         ]
       },
       "properties": {
         "title": "Fort Clatsop",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-clatsop/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-clatsop/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.613428037878,
-          -118.82179744705
+          -118.82179744705,
+          43.613428037878
         ]
       },
       "properties": {
         "title": "Fort Harney",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-harney/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-harney/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.35526,
-          -121.18092
+          -121.18092,
+          43.35526
         ]
       },
       "properties": {
         "title": "Fort Rock",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-rock/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-rock/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          46.18422,
-          -123.95682
+          -123.95682,
+          46.18422
         ]
       },
       "properties": {
         "title": "Fort Stevens State Park",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-stevens-state-park/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/fort-stevens-state-park/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.626264,
-          -122.655407
+          -122.655407,
+          45.626264
         ]
       },
       "properties": {
         "title": "Fort Vancouver",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/fort-vancouver-national-historic-site/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/fort-vancouver-national-historic-site/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.645218,
-          -120.081103
+          -120.081103,
+          45.645218
         ]
       },
       "properties": {
         "title": "Fourmile Canyon",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/fourmile-canyon/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/fourmile-canyon/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.97198,
-          -120.77835
+          -120.77835,
+          42.97198
         ]
       },
       "properties": {
         "title": "Fremont Memorial",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/fremont-memorial/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/fremont-memorial/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.13733938197,
-          -123.29442641797
+          -123.29442641797,
+          45.13733938197
         ]
       },
       "properties": {
         "title": "Glacial Erratics",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/glacial-erratics/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/glacial-erratics/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.302241,
-          -121.750295
+          -121.750295,
+          45.302241
         ]
       },
       "properties": {
         "title": "Government Camp",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/government-camp/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/government-camp/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.058924383006,
-          -123.61154845701
+          -123.61154845701,
+          45.058924383006
         ]
       },
       "properties": {
         "title": "Grand Ronde Indian Reservation",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/grand-ronde-indian-reservation/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/grand-ronde-indian-reservation/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.559128,
-          -123.928009
+          -123.928009,
+          45.559128
         ]
       },
       "properties": {
         "title": "Captain Robert Gray",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/gray-captain-robert/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/gray-captain-robert/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.64377,
-          -118.62712
+          -118.62712,
+          43.64377
         ]
       },
       "properties": {
         "title": "Great Basin",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/great-basin/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/great-basin/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.924779288704,
-          -124.01441248413
+          -124.01441248413,
+          44.924779288704
         ]
       },
       "properties": {
         "title": "Great Tsunami of 1700",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/great-tsunami-of-1700-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/great-tsunami-of-1700-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35344,
-          -119.55134
+          -119.55134,
+          45.35344
         ]
       },
       "properties": {
         "title": "Heppner Flood",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/heppner-flood/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/heppner-flood/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.340699,
-          -118.22422
+          -118.22422,
+          45.340699
         ]
       },
       "properties": {
         "title": "Hilgard Junction",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/hilgard-junction-state-park/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/hilgard-junction-state-park/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.33581,
-          -118.10788
+          -118.10788,
+          45.33581
         ]
       },
       "properties": {
         "title": "Historic La Grande",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/historic-la-grande/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/historic-la-grande/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.53003,
-          -119.3023
+          -119.3023,
+          43.53003
         ]
       },
       "properties": {
         "title": "Homeland of the Burns Paiute",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/homeland-of-the-burns-pauite/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/homeland-of-the-burns-pauite/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.942995668547,
-          -123.29346675659
+          -123.29346675659,
+          42.942995668547
         ]
       },
       "properties": {
         "title": "Homeland of the Cow Creeks",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/homeland-of-the-cow-creeks/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/homeland-of-the-cow-creeks/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.70546,
-          -121.522093
+          -121.522093,
+          45.70546
         ]
       },
       "properties": {
         "title": "Hood River",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/hood-river/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/hood-river/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.53258,
-          -119.74396
+          -119.74396,
+          44.53258
         ]
       },
       "properties": {
         "title": "Indian Trails",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/indian-trails/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/indian-trails/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.0557319,
-          -124.2737503
+          -124.2737503,
+          42.0557319
         ]
       },
       "properties": {
         "title": " Japanese Attack on Oregon",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/japanese-attack-on-oregon/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/japanese-attack-on-oregon/",
+        "body": "Brookings, OR 97415",
+        "address": "Constitution Rd, Brookings, OR 97415, USA",
+        "correctedAddress": "Constitution Rd, Brookings, OR 97415, USA",
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.588471,
-          -120.409808
+          -120.409808,
+          45.588471
         ]
       },
       "properties": {
         "title": "John Day River Crossing",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/john-day-river-crossing/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/john-day-river-crossing/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.912487,
-          -117.178459
+          -117.178459,
+          43.912487
         ]
       },
       "properties": {
         "title": "Keeney Pass",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/kenney-pass/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/kenney-pass/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.332116,
-          -118.071957
+          -118.071957,
+          45.332116
         ]
       },
       "properties": {
         "title": "La Grande",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/la-grande/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/la-grande/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.302316,
-          -121.773856
+          -121.773856,
+          45.302316
         ]
       },
       "properties": {
         "title": "Laurel Hill",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/laurel-hill-2/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/laurel-hill-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.81203,
-          -117.7542
+          -117.7542,
+          44.81203
         ]
       },
       "properties": {
         "title": "Lone Tree of the Oregon Trail",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/lone-tree-of-the-oregon-trail/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/lone-tree-of-the-oregon-trail/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.80816,
-          -117.73186
+          -117.73186,
+          44.80816
         ]
       },
       "properties": {
         "title": "Lure of Gold",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/lure-of-gold/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/lure-of-gold/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.74372,
-          -122.87682
+          -122.87682,
+          45.74372
         ]
       },
       "properties": {
         "title": "McKay, Thomas",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/mckay-thomas/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/mckay-thomas/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35178,
-          -122.6266
+          -122.6266,
+          45.35178
         ]
       },
       "properties": {
         "title": "McLoughlin, Dr. John",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/mcloughlin-dr-john/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/mcloughlin-dr-john/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.50877,
-          -118.42197
+          -118.42197,
+          45.50877
         ]
       },
       "properties": {
         "title": "Meacham",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/meacham/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/meacham/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.57897,
-          -122.97052
+          -122.97052,
+          45.57897
         ]
       },
       "properties": {
         "title": "Meek, Joseph L",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/meek-joseph-l/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/meek-joseph-l/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.69596,
-          -121.33817
+          -121.33817,
+          45.69596
         ]
       },
       "properties": {
         "title": "Memaloose Island",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/memaloose-island/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/memaloose-island/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.695573,
-          -121.338372
+          -121.338372,
+          45.695573
         ]
       },
       "properties": {
         "title": "Memaloose Rest Area",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/memaloose-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/memaloose-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.9415,
-          -123.2285
+          -123.2285,
+          44.9415
         ]
       },
       "properties": {
         "title": "Nesmith, James W",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/nesmith-james-w/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/nesmith-james-w/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.424156085642,
-          -117.29313165619
+          -117.29313165619,
+          45.424156085642
         ]
       },
       "properties": {
         "title": "Nez Perce",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/nez-perce/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/nez-perce/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.64311,
-          -121.88028
+          -121.88028,
+          42.64311
         ]
       },
       "properties": {
         "title": "Ogden, Peter Skene ",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.74803,
-          -118.07213
+          -118.07213,
+          43.74803
         ]
       },
       "properties": {
         "title": "Ogden, Peter Skene ",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.3892,
-          -121.18861
+          -121.18861,
+          44.3892
         ]
       },
       "properties": {
         "title": "Ogden, Peter Skene",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene-3/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/ogden-peter-skene-3/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.993617,
-          -116.935902
+          -116.935902,
+          43.993617
         ]
       },
       "properties": {
         "title": "Ontario Rest Area",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/ontario-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/ontario-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35196,
-          -122.6144
+          -122.6144,
+          45.35196
         ]
       },
       "properties": {
         "title": "Oregon City",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/oregon-city/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/oregon-city/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35196,
-          -122.6144
+          -122.6144,
+          45.35196
         ]
       },
       "properties": {
         "title": "Oregon City Falls",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/oregon-city-falls/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/oregon-city-falls/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.814636,
-          -117.728435
+          -117.728435,
+          44.814636
         ]
       },
       "properties": {
         "title": "Interpretive Center",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/national-historic-oregon-trail-interpretive-center/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/national-historic-oregon-trail-interpretive-center/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.67226,
-          -118.75461
+          -118.75461,
+          45.67226
         ]
       },
       "properties": {
         "title": "Pendleton",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/pendleton/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/pendleton/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.672274,
-          -118.788857
+          -118.788857,
+          45.672274
         ]
       },
       "properties": {
         "title": "Pendleton",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/pendleton-2/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/pendleton-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.358169,
-          -122.354296
+          -122.354296,
+          45.358169
         ]
       },
       "properties": {
         "title": "Philip Foster Farm",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/philip-foster-farm/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/philip-foster-farm/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.540515482487,
-          -123.37066357672
+          -123.37066357672,
+          44.540515482487
         ]
       },
       "properties": {
         "title": "Philomath College Marker",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/philomath/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/philomath/",
+        "body": "",
+        "address": "1101 Main St, Philomath, OR 97370, USA",
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.91791,
-          -121.00855
+          -121.00855,
+          43.91791
         ]
       },
       "properties": {
         "title": "Prehistoric River",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/prehistoric-river/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/prehistoric-river/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.684171,
-          -119.306395
+          -119.306395,
+          42.684171
         ]
       },
       "properties": {
         "title": "Rock Creek Reservoir",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/rock-creek-reservoir/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/rock-creek-reservoir/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.410261,
-          -122.27353
+          -122.27353,
+          45.410261
         ]
       },
       "properties": {
         "title": "Sandy",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/sandy/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/sandy/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.53824,
-          -122.37553
+          -122.37553,
+          45.53824
         ]
       },
       "properties": {
         "title": "Sandy River Bridge",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/sandy-river-bridge/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/sandy-river-bridge/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.40665,
-          -122.29027
+          -122.29027,
+          44.40665
         ]
       },
       "properties": {
         "title": "Santiam Wagon Road",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/santiam-wagon-road/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/santiam-wagon-road/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.65405,
-          -123.81356
+          -123.81356,
+          43.65405
         ]
       },
       "properties": {
         "title": "Scottsburg",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/scottsburg/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/scottsburg/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.26199,
-          -121.03011
+          -121.03011,
+          45.26199
         ]
       },
       "properties": {
         "title": "Sherar’s Bridge Area",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/sherars-bridge-area/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/sherars-bridge-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.831044,
-          -117.033556
+          -117.033556,
+          43.831044
         ]
       },
       "properties": {
         "title": "Snake River Crossing",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/snake-river-crossing/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/snake-river-crossing/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.72444,
-          -117.08009
+          -117.08009,
+          43.72444
         ]
       },
       "properties": {
         "title": "South Alternate Route of the Oregon Trail",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/south-alternate-route-of-the-oregon-trail/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/south-alternate-route-of-the-oregon-trail/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.10992,
-          -124.16218
+          -124.16218,
+          43.10992
         ]
       },
       "properties": {
         "title": "Spruce Soldiers",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/spruce-soldiers/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/spruce-soldiers/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.771968,
-          -119.251013
+          -119.251013,
+          45.771968
         ]
       },
       "properties": {
         "title": "Stanfield RA",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/stanfield-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/stanfield-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.283553,
-          -121.737227
+          -121.737227,
+          45.283553
         ]
       },
       "properties": {
         "title": "Summit Meadow",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/summit-meadow/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/summit-meadow/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.90458,
-          -123.76782
+          -123.76782,
+          45.90458
         ]
       },
       "properties": {
         "title": "Sunset Highway",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/sunset-highway/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/sunset-highway/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.654158,
-          -118.663309
+          -118.663309,
+          45.654158
         ]
       },
       "properties": {
         "title": "Tamastslikt",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/tamastslikt-cultural-institute/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/tamastslikt-cultural-institute/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.61363,
-          -118.82684
+          -118.82684,
+          43.61363
         ]
       },
       "properties": {
         "title": "The Terrible Trail",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/terrible-trail/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/terrible-trail/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.91859,
-          -120.73379
+          -120.73379,
+          44.91859
         ]
       },
       "properties": {
         "title": "The Dalles to Canyon City Wagon Road",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/the-dalles-to-canyon-city-wagon-road/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/the-dalles-to-canyon-city-wagon-road/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.80229,
-          -123.47255
+          -123.47255,
+          45.80229
         ]
       },
       "properties": {
         "title": "Tillamook Burn",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/tillamook-burn/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/tillamook-burn/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.619704,
-          -123.381735
+          -123.381735,
+          45.619704
         ]
       },
       "properties": {
         "title": "Tillamook Burn Historical Marker",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/tillamook-burn-2/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/tillamook-burn-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.330789,
-          -121.711371
+          -121.711371,
+          45.330789
         ]
       },
       "properties": {
         "title": "Timberline Lodge",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/timberline-lodge/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/timberline-lodge/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.54468,
-          -122.39812
+          -122.39812,
+          45.54468
         ]
       },
       "properties": {
         "title": "Troutdale",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/troutdale/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/troutdale/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.543103,
-          -122.390592
+          -122.390592,
+          45.543103
         ]
       },
       "properties": {
         "title": "Troutdale",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/troutdale-2/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/troutdale-2/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.992077286709,
-          -123.93044551331
+          -123.93044551331,
+          45.992077286709
         ]
       },
       "properties": {
         "title": "Tsunami - Seaside",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami-seaside/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami-seaside/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.61767,
-          -124.05147
+          -124.05147,
+          44.61767
         ]
       },
       "properties": {
         "title": "Tsunami- Newport",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.71032,
-          -124.10065
+          -124.10065,
+          43.71032
         ]
       },
       "properties": {
         "title": "Tsunami - Reedsport",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami-reedsport/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/tsunami-reedsport/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.245374,
-          -121.173363
+          -121.173363,
+          45.245374
         ]
       },
       "properties": {
         "title": "Tygh Valley",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/tygh-valley/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/tygh-valley/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.67525,
-          -118.83349
+          -118.83349,
+          45.67525
         ]
       },
       "properties": {
         "title": "Umatilla County",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/umatilla-county/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/umatilla-county/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.22109,
-          -121.79015
+          -121.79015,
+          42.22109
         ]
       },
       "properties": {
         "title": "Upper Klamath Lake",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/upper-klamath-lake/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/upper-klamath-lake/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          43.982208,
-          -117.23809
+          -117.23809,
+          43.982208
         ]
       },
       "properties": {
         "title": "Vale",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/vale/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/vale/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.59799,
-          -122.6864
+          -122.6864,
+          45.59799
         ]
       },
       "properties": {
         "title": "Vanport",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/vanport/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/vanport/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.32223,
-          -117.20249
+          -117.20249,
+          45.32223
         ]
       },
       "properties": {
         "title": "Wallowa Lake",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/wallowa-lake/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/wallowa-lake/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.495266,
-          -117.365978
+          -117.365978,
+          44.495266
         ]
       },
       "properties": {
         "title": "Weatherby Rest Area",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/weatherby-rest-area/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/weatherby-rest-area/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.596324,
-          -119.695444
+          -119.695444,
+          45.596324
         ]
       },
       "properties": {
         "title": "Well Springs",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/well-springs/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/well-springs/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.329718,
-          -121.910155
+          -121.910155,
+          45.329718
         ]
       },
       "properties": {
         "title": "West Barlow Tollgate",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/west-barlow-tollgate/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/west-barlow-tollgate/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          46.171349634593,
-          -123.43629642461
+          -123.43629642461,
+          46.171349634593
         ]
       },
       "properties": {
         "title": " \"Captain\" John West",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/west-captain-john/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/west-captain-john/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          46.064462,
-          -118.34507
+          -118.34507,
+          46.064462
         ]
       },
       "properties": {
         "title": "Whitman Mission",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/whitman-mission-national-historic-site/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/whitman-mission-national-historic-site/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.355975,
-          -121.986523
+          -121.986523,
+          45.355975
         ]
       },
       "properties": {
         "title": "Wildwood Recreation Site",
-        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/wildwood-recreation-site/"
+        "url": "http://ortravelexperience.com/oregon-trail-interpretive-sites/wildwood-recreation-site/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "wagon-wheel.png"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.351764920575,
-          -122.62618562698
+          -122.62618562698,
+          45.351764920575
         ]
       },
       "properties": {
         "title": "Willamette Falls",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-falls/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-falls/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.35178,
-          -122.62625
+          -122.62625,
+          45.35178
         ]
       },
       "properties": {
         "title": "Willamette Falls Locks",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-falls-locks/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-falls-locks/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.26006,
-          -122.94241
+          -122.94241,
+          45.26006
         ]
       },
       "properties": {
         "title": "Willamette Post",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-post/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-post/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          45.519331,
-          -122.744054
+          -122.744054,
+          45.519331
         ]
       },
       "properties": {
         "title": "Willamette Stone",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-stone-the/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/willamette-stone-the/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          42.646223,
-          -121.879573
+          -121.879573,
+          42.646223
         ]
       },
       "properties": {
         "title": "Williamson River",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/williamson-river/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/williamson-river/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     },
     {
+      "type": "Point",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          44.624513174018,
-          -124.06485322754
+          -124.06485322754,
+          44.624513174018
         ]
       },
       "properties": {
         "title": "Yaquina Bay",
-        "url": "http://ortravelexperience.com/oregon-historical-markers/yaquina-bay/"
+        "url": "http://ortravelexperience.com/oregon-historical-markers/yaquina-bay/",
+        "body": "",
+        "address": null,
+        "correctedAddress": null,
+        "iconid": "info"
       }
     }
   ]
-}
+} 
