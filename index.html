@@ -3,6 +3,15 @@
 <head>
   <title>KML to GeoJSON</title>
   <script src='./jquery-2.0.3.min.js'></script>
+  <style>
+    #pastedJSON{
+      display: block;
+    }
+    #convertedGeoJSON{
+      white-space: pre;
+      font-family: monospace;
+    }
+  </style>
 </head>
 
 <body>
@@ -15,17 +24,16 @@
     <form id='pasteJSON'>
       <fieldset>
         <legend>Copy and paste your sneaky JSON here:</legend>
-        <input type='text/javascript' id='pastedJSON' name='formInput'>
-        <input type='submit' id='button' value='Convert!' />
+        <textarea id="pastedJSON"></textarea>
+        <input type='submit' id='convert' value='Convert!' />
       </fieldset>
     </form>
   </div>
 
-  <div id='convertedGeoJSON'></div>
+  <div id="convertedGeoJSON"></div>
   
   <script>
   $(function() {
-    $('#convertedGeoJSON').html('');
     console.log("xx");
     console.log("go");
     var json, geojson, formattedGeoJSON;
